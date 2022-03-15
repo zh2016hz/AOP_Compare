@@ -11,6 +11,10 @@
     {
       "name_regex": "android.telephony.TelephonyManager.listen",
       "message": "监听呼入电话信息"
+    },
+    {
+      "name_regex": "android.net.wifi.WifiManager.getSSID",
+      "message": "gie gie 这个是隐私api 请使用PrivacyUtil.getWifiName 替换哦"
     }
   ]
 }
