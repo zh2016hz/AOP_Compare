@@ -20,8 +20,7 @@ class MainActivity : AppCompatActivity() {
 
 //        testEpic()
 //        startThread()
-        Log.e("TAG", "onCreate: 最近在做商汤OCR需求" )
-        Log.e("TAG", "onCreate: 遇到一堆问题我草" )
+
 
 
         Log.e("TAG", "onCreate: 妈的。产品需求变来变去，我草，导致时间不够" )
