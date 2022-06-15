@@ -12,6 +12,7 @@ class TestThread {
 
     fun startSecondThread() {
         Log.e("TAG", "onCreate: 做国金需求" )
+        Log.e("TAG", "onCreate: 小需求发现一堆代码不规范？是真的不规范吗？" )
         CustomThread().apply {
             name="SSSSSS"
         }.start()

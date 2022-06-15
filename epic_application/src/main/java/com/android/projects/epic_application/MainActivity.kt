@@ -25,6 +25,9 @@ class MainActivity : AppCompatActivity() {
 
 
         Log.e("TAG", "onCreate: 妈的。产品需求变来变去，我草，导致时间不够" )
+
+
+        Log.e("TAG", "onCreate: 小需求发现一堆代码不规范？我草，其实有些没必要更高？" )
     }
 
 
