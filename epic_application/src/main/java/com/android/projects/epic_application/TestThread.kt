@@ -1,5 +1,7 @@
 package com.android.projects.epic_application
 
+import android.util.Log
+
 class TestThread {
 
     fun startFirstThread() {
@@ -9,6 +11,7 @@ class TestThread {
     }
 
     fun startSecondThread() {
+        Log.e("TAG", "onCreate: 做国金需求" )
         CustomThread().apply {
             name="SSSSSS"
         }.start()
