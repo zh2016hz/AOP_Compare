@@ -25,10 +25,7 @@ class MainActivity : AppCompatActivity() {
         Log.e("TAG", "onCreate: 44444444" )
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 00e357e (--store=4444444443次提交)
         Log.e("TAG", "onCreate: 2222222222222" )
 
         Log.e("TAG", "onCreate: 小需求发现一堆代码不规范？我草，其实有些没必要更高？" )
