@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
 //        testEpic()
 //        startThread()
-
+        Log.e("TAG", "onCreate: 333333333333" )
         Log.e("TAG", "onCreate: 11111111111提交" )
         Log.e("TAG", "onCreate: 44444444" )
 
