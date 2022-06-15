@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("TAG", "onCreate: 11111111111提交" )
         Log.e("TAG", "onCreate: 44444444" )
+
+
 <<<<<<< HEAD
 
 =======
